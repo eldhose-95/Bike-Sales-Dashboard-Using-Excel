@@ -1,5 +1,22 @@
 # Bike-Sales-Dashboard-Using-Excel
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The dashboard provide![Screenshot](https://user-images.githubusercontent.com/83853757/230184549-e8489cc9-bbde-40e3-ae74-290bbd870388.png)
  valuable insights such as:
 
